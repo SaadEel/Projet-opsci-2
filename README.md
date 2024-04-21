@@ -17,3 +17,7 @@ SETIA Joshua (Numéro étudiant : 21113851)
 3/ strapiDB sur localhost:5432
 
 4/ strapi sur locahost:1337
+
+**Adresse IP** : 127.0.0.1
+
+**Nom de la machine** : seh22
