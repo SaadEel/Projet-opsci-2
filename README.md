@@ -10,9 +10,9 @@ SETIA Joshua (Numéro étudiant : 21113851)
 
 **Adresse et ports des éléments de l'application** :
 
-1/ kafka sur kafka:9092 ou kafka:9093 ?
+1/ kafka sur kafka:9092 ou kafka:9093
 
-2/ zookeeper sur zookeeper:2181 ?
+2/ zookeeper sur zookeeper:2181
 
 3/ strapiDB sur localhost:5432
 
